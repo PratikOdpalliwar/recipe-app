@@ -1,0 +1,63 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing:border-box;
+    }
+  
+  .header{
+    height:60px;
+    width:100vw;
+    background-color:black;
+    color:white;
+    display :flex;
+    justify-content:space-between;
+    align-content:center;
+    align-items:center;
+    padding: 10px 35px;
+    
+  
+  }
+  
+  img{
+    height:26px;
+    width:30px;
+  }
+  
+  h1{
+    color:white;
+    font-size:17px;
+    font-family: 'Roboto', sans-serif;
+    padding:5px;
+  }
+  
+  .heading-container{
+    height:40px;
+    width:30vw;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    text-align:center;
+    
+  }
+  
+  .input-container{
+    height:35px;
+    width:35vw;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    text-align:center;
+    background-color:white;
+    border-radius:5px;
+    padding:5px;
+  }
+  
+  input{
+    height:70%;
+    width:100%;
+    border:0px solid white;
+    padding:5px;
+    font-size:15px;
+  }
+  
+  
